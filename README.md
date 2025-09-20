@@ -1,0 +1,1 @@
+# Keuangan App (Simple)\n\n## Setup\n1. `npm install`\n2. `npm start`\n3. Buka `http://localhost:3000/login.html`\n\nDefault user: admin / admin123\n
